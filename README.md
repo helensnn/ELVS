@@ -16,7 +16,7 @@ python run.py --lr 1e-4 --b 100 --n_class 6 --n-epochs 100 \
 
 ## Download-VocalSound
 
- [**VocalSound 16kHz Version** (1.7 GB, used in our baseline experiment)](https://www.dropbox.com/s/c5ace70qh1vbyzb/vs_release_16k.zip?dl=1)
+ [**VocalSound 16kHz Version** (1.7 GB, used in our experiment)](https://www.dropbox.com/s/c5ace70qh1vbyzb/vs_release_16k.zip?dl=1)
 
 ```
 wget -O vocalsound_16k.zip https://www.dropbox.com/s/c5ace70qh1vbyzb/vs_release_16k.zip?dl=1
